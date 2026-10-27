@@ -64,7 +64,7 @@ FIXME [Como fazer para jogar?]
 - [Felipe raniery](https://github.com/Feliperaniery-compromete)
 - [Anne Beatriz](https://github.com/oliveiraanne-netizem)
 - [Enzo Vasconcelos](https://github.com/vasconcelos14)
-- [](https://github.com/)
+- [Douglas F. Silva](https://github.com/douglasbsilva1)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
