@@ -59,7 +59,7 @@ FIXME [Como fazer para jogar?]
 - [Gabriel Ravazzolo](https://github.com/Ravazzolo)
 - [Giovanna Tavares](https://github.com/giovannaprograma)
 - [L A Minora](https://github.com/leonardo-minora)
-- [](https://github.com/)
+- [Daniel R](https://github.com/Daniel-rodrigues-coder)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
