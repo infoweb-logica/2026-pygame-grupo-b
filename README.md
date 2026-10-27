@@ -56,3 +56,5 @@ FIXME [Como fazer para jogar?]
 - [David Armando](https://github.com/davidarmando00)
 - [Allaphy Ricardo](https://github.com/allaphyricardo)
 - [Giovanna Tavares](https://github.com/giovannaprograma)
+- [Ana cecília](https://github.com/anaribeiro2-r)
+- [](https://github.com/)
