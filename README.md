@@ -47,3 +47,5 @@ FIXME [Como fazer para jogar?]
 
 ---
 ## Equipe
+
+- [L A Minora](https://github.com/leonardo-minora)
