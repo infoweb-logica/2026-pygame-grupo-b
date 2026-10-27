@@ -68,3 +68,4 @@ FIXME [Como fazer para jogar?]
 - [Allan Guilherme](https://github.com/allanguilhermec)
 - [Jenyffer Danily](https://github.com/jenypr)
 - [Augusto Borges](https://github.com/GUT-R)
+- [Andrey Valentin](https://github.com/AndreyValentin)
