@@ -60,7 +60,7 @@ FIXME [Como fazer para jogar?]
 - [Giovanna Tavares](https://github.com/giovannaprograma)
 - [L A Minora](https://github.com/leonardo-minora)
 - [Daniel R](https://github.com/Daniel-rodrigues-coder)
-- [](https://github.com/)
+- [Eulla Paula](https://github.com/EullaOliveira)
 - [](https://github.com/)
 - [](https://github.com/)
 - [](https://github.com/)
