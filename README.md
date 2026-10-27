@@ -62,5 +62,5 @@ FIXME [Como fazer para jogar?]
 - [Daniel R](https://github.com/Daniel-rodrigues-coder)
 - [Eulla Paula](https://github.com/EullaOliveira)
 - [Felipe raniery](https://github.com/Feliperaniery-compromete)
-- [](https://github.com/)
+- [Anne Beatriz](https://github.com/oliveiraanne-netizem)
 - [](https://github.com/)
