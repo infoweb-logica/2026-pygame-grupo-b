@@ -52,3 +52,4 @@ FIXME [Como fazer para jogar?]
 - [Gabriel Bezerra](https://github.com/gabrielbezerra09)
 - [D S Ferreira](https://github.com/danisferreiraa)
 - [Arthur Galvão](https://github.com/arthur74593)
+- [Ana Júlia](https://github.com/anaregis08)
