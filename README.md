@@ -67,4 +67,4 @@ FIXME [Como fazer para jogar?]
 - [Douglas F. Silva](https://github.com/douglasbsilva1)
 - [Allan Guilherme](https://github.com/allanguilhermec)
 - [Jenyffer Danily](https://github.com/jenypr)
-- [](https://github.com/)
+- [Augusto Borges](https://github.com/GUT-R)
