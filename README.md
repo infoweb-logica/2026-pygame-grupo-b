@@ -65,6 +65,6 @@ FIXME [Como fazer para jogar?]
 - [Anne Beatriz](https://github.com/oliveiraanne-netizem)
 - [Enzo Vasconcelos](https://github.com/vasconcelos14)
 - [Douglas F. Silva](https://github.com/douglasbsilva1)
-- [](https://github.com/)
+- [Allan Guilherme](https://github.com/allanguilhermec)
 - [](https://github.com/)
 - [](https://github.com/)
