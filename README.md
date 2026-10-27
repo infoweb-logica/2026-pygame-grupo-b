@@ -63,4 +63,8 @@ FIXME [Como fazer para jogar?]
 - [Eulla Paula](https://github.com/EullaOliveira)
 - [Felipe raniery](https://github.com/Feliperaniery-compromete)
 - [Anne Beatriz](https://github.com/oliveiraanne-netizem)
+- [Enzo Vasconcelos](https://github.com/vasconcelos14)
+- [](https://github.com/)
+- [](https://github.com/)
+- [](https://github.com/)
 - [](https://github.com/)
