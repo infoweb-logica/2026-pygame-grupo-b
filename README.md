@@ -61,6 +61,6 @@ FIXME [Como fazer para jogar?]
 - [L A Minora](https://github.com/leonardo-minora)
 - [Daniel R](https://github.com/Daniel-rodrigues-coder)
 - [Eulla Paula](https://github.com/EullaOliveira)
-- [](https://github.com/)
+- [Felipe raniery](https://github.com/Feliperaniery-compromete)
 - [](https://github.com/)
 - [](https://github.com/)
