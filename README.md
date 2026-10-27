@@ -54,3 +54,4 @@ FIXME [Como fazer para jogar?]
 - [Arthur Galvão](https://github.com/arthur74593)
 - [Ana Júlia](https://github.com/anaregis08)
 - [David Armando](https://github.com/davidarmando00)
+- [Allaphy Ricardo](https://github.com/allaphyricardo)
