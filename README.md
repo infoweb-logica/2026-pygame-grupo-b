@@ -49,3 +49,4 @@ FIXME [Como fazer para jogar?]
 ## Equipe
 
 - [L A Minora](https://github.com/leonardo-minora)
+- [Gabriel Bezerra](https://github.com/gabrielbezerra09)
