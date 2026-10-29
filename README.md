@@ -1,6 +1,7 @@
 # 2026-pygame-grupo-b
 Repositório do jogo do grupo do 5 e 6 horários
 
+---
 ## Tarefa
 1. Abrir o vs code
 2. Clonar o repositório do github e aceitar abrir o projeto na janela atual
@@ -25,13 +26,18 @@ Repositório do jogo do grupo do 5 e 6 horários
 
 FIXME [Um paragráfo descrevendo o jogo]
 
+### Descrevendo o tipo do jogo e suas metáforas
 FIXME [Um paragráfo descrevendo o tipo do jogo e suas metáforas]
 
+### Definição de ganhar e perder o jogo
 FIXME [O que faz o jogador ganhar? O que faz perder?]
+
+### Referência de outros jogos
 
 Como referência para o nosso jogo, pegamos o clássico jogo de tabuleiro de adivinhação para dois jogadores: Cara a Cara.
 
-### Design do jogo
+---
+## Design do jogo
 
 FIXME [Link para o figma] ou [Rascunhos das telas em papel]
 
