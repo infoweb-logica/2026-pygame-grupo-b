@@ -24,13 +24,12 @@ Repositório do jogo do grupo do 5 e 6 horários
 
 ### Resumo do jogo
 
-FIXME [Um paragráfo descrevendo o jogo]
+Cara a cara é um jogo que consiste em perguntas de sim ou não, em turnos alternados, em que o principal objetivo é adivinhar o personagem escolhido pelo seu adversário, antes que ele adivinhe o seu, isto é, vão sendo eliminados os personagens não correspondentes às características perguntadas. Este jogo possui várias personalidades, ou seja, cada exemplar possui seres/objetos diferentes.
+
 
 ### Descrevendo o tipo do jogo e suas metáforas
-FIXME [Um paragráfo descrevendo o tipo do jogo e suas metáforas]
 
-FIXME [O que faz o jogador ganhar? O que faz perder?]
- No jogo Cara a Cara, a vitória e a derrota são decididas pela precisão do seu palpite final sobre a identidade do personagem secreto do adversário. Um jogador ganha a partida quando, na sua vez de jogar, consegue adivinhar corretamente o nome do personagem do oponente, um feito que geralmente acontece após eliminar os suspeitos incorretos por meio de perguntas estratégicas de sim ou não. Por outro lado, existem duas formas de perder: a primeira é quando o adversário é mais rápido e descobre o seu personagem secreto antes; a segunda é através de um erro autoinfligido, já que arriscar um palpite definitivo e errar o nome do suspeito resulta em derrota imediata, independentemente de quantas molduras ainda estejam de pé no tabuleiro. 
+No jogo Cara a Cara, a vitória e a derrota são decididas pela precisão do seu palpite final sobre a identidade do personagem secreto do adversário. Um jogador ganha a partida quando, na sua vez de jogar, consegue adivinhar corretamente o nome do personagem do oponente, um feito que geralmente acontece após eliminar os suspeitos incorretos por meio de perguntas estratégicas de sim ou não. Por outro lado, existem duas formas de perder: a primeira é quando o adversário é mais rápido e descobre o seu personagem secreto antes; a segunda é através de um erro autoinfligido, já que arriscar um palpite definitivo e errar o nome do suspeito resulta em derrota imediata, independentemente de quantas molduras ainda estejam de pé no tabuleiro. 
 
 
 FIXME [referências de outros jogos]
