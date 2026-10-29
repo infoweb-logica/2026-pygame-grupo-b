@@ -29,6 +29,8 @@ FIXME [Um paragráfo descrevendo o tipo do jogo e suas metáforas]
 
 FIXME [O que faz o jogador ganhar? O que faz perder?]
 
+FIXME [referências de outros jogos]
+
 ### Design do jogo
 
 FIXME [Link para o figma] ou [Rascunhos das telas em papel]
