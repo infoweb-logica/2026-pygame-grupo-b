@@ -31,8 +31,7 @@ Cara a cara é um jogo que consiste em perguntas de sim ou não, em turnos alter
 
 No jogo Cara a Cara, a vitória e a derrota são decididas pela precisão do seu palpite final sobre a identidade do personagem secreto do adversário. Um jogador ganha a partida quando, na sua vez de jogar, consegue adivinhar corretamente o nome do personagem do oponente, um feito que geralmente acontece após eliminar os suspeitos incorretos por meio de perguntas estratégicas de sim ou não. Por outro lado, existem duas formas de perder: a primeira é quando o adversário é mais rápido e descobre o seu personagem secreto antes; a segunda é através de um erro autoinfligido, já que arriscar um palpite definitivo e errar o nome do suspeito resulta em derrota imediata, independentemente de quantas molduras ainda estejam de pé no tabuleiro. 
 
-
-FIXME [referências de outros jogos]
+### Referências de outros jogos
 
 Como referência para o nosso jogo, pegamos o clássico jogo de tabuleiro de adivinhação para dois jogadores: Cara a Cara.
 
