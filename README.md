@@ -28,7 +28,7 @@ Cara a cara é um jogo que consiste em perguntas de sim ou não, em turnos alter
 
 
 ### Descrevendo o tipo do jogo e suas metáforas
-
+O Cara a Cara é essencialmente um jogo de dedução lógica e eliminação por meio de questionamentos eliminatórios, operando como uma mecânica de busca e filtragem de informações. Por trás de sua dinâmica recreativa, o tabuleiro funciona como uma metáfora perfeita para os processos de tomada de decisão e resolução de problemas, onde cada pergunta feita atua como um filtro que reduz as possibilidades para encontrar o dado correto.
 ### Como um jogador ganha
 No jogo Cara a Cara, a vitória e a derrota são decididas pela precisão do seu palpite final sobre a identidade do personagem secreto do adversário. Um jogador ganha a partida quando, na sua vez de jogar, consegue adivinhar corretamente o nome do personagem do oponente, um feito que geralmente acontece após eliminar os suspeitos incorretos por meio de perguntas estratégicas de sim ou não. Por outro lado, existem duas formas de perder: a primeira é quando o adversário é mais rápido e descobre o seu personagem secreto antes; a segunda é através de um erro autoinfligido, já que arriscar um palpite definitivo e errar o nome do suspeito resulta em derrota imediata, independentemente de quantas molduras ainda estejam de pé no tabuleiro. 
 
