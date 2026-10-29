@@ -29,7 +29,7 @@ FIXME [Um paragráfo descrevendo o tipo do jogo e suas metáforas]
 
 FIXME [O que faz o jogador ganhar? O que faz perder?]
 
-FIXME [referências de outros jogos]
+Como referência para o nosso jogo, pegamos o clássico jogo de tabuleiro de adivinhação para dois jogadores: Cara a Cara.
 
 ### Design do jogo
 
