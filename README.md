@@ -42,7 +42,38 @@ FIXME [Link para o figma] ou [Rascunhos das telas em papel]
 
 FIXME [Elementos áudio visuais do jogo (sprites, fundos, etc) são autorais ou de terceiros? construídos ou baixados de qual lugar?]
 
-FIXME [Descreva a jogabilidade]
+### Descreva a jogabilidade
+
+A jogabilidade do Cara a Cara consiste em uma disputa entre dois jogadores, na qual cada participante deve descobrir o personagem secreto escolhido pelo adversário por meio de perguntas sobre suas características. Os jogadores alternam seus turnos, fazendo perguntas que podem ser respondidas apenas com "sim" ou "não". Com base nas respostas, cada jogador elimina os personagens que não correspondem às características descobertas, até conseguir identificar o personagem secreto do oponente.
+
+#### Sequência de tarefas
+
+1. **Iniciar o jogo:** os jogadores acessam o jogo e iniciam uma nova partida.
+2. **Escolher o personagem secreto:** cada jogador escolhe um personagem que deverá ser descoberto pelo adversário. Essa escolha deve permanecer secreta durante a partida.
+3. **Visualizar os personagens:** os jogadores observam os personagens disponíveis no tabuleiro e suas respectivas características.
+4. **Realizar uma pergunta:** o primeiro jogador faz uma pergunta sobre alguma característica do personagem secreto do adversário. A pergunta deve permitir uma resposta de "sim" ou "não".
+5. **Responder à pergunta:** o adversário responde de acordo com as características do personagem que escolheu.
+6. **Analisar a resposta:** o jogador utiliza a informação recebida para identificar quais personagens podem ser descartados.
+7. **Eliminar personagens:** o jogador elimina ou abaixa os personagens que não correspondem à resposta recebida, reduzindo as possibilidades.
+8. **Alternar os turnos:** após cada pergunta e resposta, a vez passa para o outro jogador, que realiza o mesmo procedimento.
+9. **Tentar adivinhar:** quando acreditar que descobriu o personagem secreto do adversário, o jogador pode realizar um palpite definitivo.
+10. **Finalizar a partida:** se o palpite estiver correto, o jogador vence. Caso erre, perde a partida. O jogo apresenta o resultado final, indicando o vencedor.
+
+#### Uso de teclas
+
+Os controles de teclado permitem que os jogadores interajam com os elementos do jogo, movimentando a seleção pelo tabuleiro e confirmando suas ações.
+
+| Tecla | Função |
+|---|---|
+| `W` ou `↑` | Movimentar a seleção para cima. |
+| `S` ou `↓` | Movimentar a seleção para baixo. |
+| `A` ou `←` | Movimentar a seleção para a esquerda. |
+| `D` ou `→` | Movimentar a seleção para a direita. |
+| `ENTER` | Confirmar uma seleção ou ação. |
+| `ESPAÇO` | Selecionar ou eliminar um personagem. |
+| `ESC` | Voltar ao menu ou cancelar uma ação. |
+
+
 
 FIXME [Qual a engine ([pygame](https://www.pygame.org/), [pygame zero](https://pygame-zero.readthedocs.io/), [godot](https://godotengine.org/), [unreal](https://www.unrealengine.com/), [unity](https://unity.com/), [GameMaker](https://gamemaker.io/), [construct](https://www.construct.net/), [love2d](https://love2d.org/), [cry engine](https://www.cryengine.com/), [gideros](https://www.gideros.rocks/))? Por que escolheram a engine?]
 
