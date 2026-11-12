@@ -76,6 +76,7 @@ FIXME [Como fazer para jogar?]
 - [Allaphy Ricardo](https://github.com/allaphyricardo)
 - [Ana cecília](https://github.com/anaribeiro2-r)
 - [Ana Júlia](https://github.com/anaregis08)
+- [Analy Souza](https://github.com/souzanaly)
 - [Andrey Valentin](https://github.com/AndreyValentin)
 - [Anne Beatriz](https://github.com/oliveiraanne-netizen)
 - [Arthur Galvão](https://github.com/arthur74593)
